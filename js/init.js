@@ -7,5 +7,6 @@ firebase.initializeApp({
     projectId: "autentifica43tps",
     storageBucket: "autentifica43tps.appspot.com",
     messagingSenderId: "843320142991",
-    appId: "1:843320142991:web:fbc25412198f14d72154fa"
+    appId: "1:843320142991:web:fbc25412198f14d72154fa",
+    measurementId: "G-CMTB5FT43S"
     });
